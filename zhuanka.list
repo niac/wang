@@ -19,7 +19,7 @@
                         <key>needs-shine</key>
                         <false/>
                         <key>url</key>
-                        <string></string>
+                        <string>http://112.74.17.118/img/57.png</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -27,19 +27,19 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string></string>
+                        <string>http://112.74.17.118/img/512.png</string>
                     </dict>
                 </array>
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string></string>
+                    <string>com.xinlian.guyongbing</string>
                     <key>bundle-version</key>
                     <string>2.0.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>subtitle</key>
-                    <string></string>
+                    <string>赚咖</string>
                     <key>title</key>
                     <string>赚咖</string>
                 </dict>
